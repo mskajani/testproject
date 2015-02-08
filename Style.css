@@ -1,0 +1,21 @@
+.images {float: left;
+	margin-right: 50px;
+	padding: 20px;
+}
+.colfirst, .colsecond, .colthird {padding: 10px;
+line-height: 20px;
+letter-spacing: 10px;
+float:left;
+width: 23%
+}
+.colA, .colB {line-height: 20px;
+	letter-spacing: 15px;
+	width: 45%;
+	float: left;
+	padding-left: 10px;
+}
+.socialbar {position:fixed;
+font-family: Garamond;
+font-size: 50px;
+font-style: bold;
+}
